@@ -94,10 +94,10 @@ A acessibilidade digital completa é indispensável para garantir inclusão, igu
 Portanto, investir em acessibilidade significa promover inclusão, melhorar a qualidade dos serviços digitais e permitir que todos os usuários possam navegar com autonomia, segurança e eficiência.
 
 ## Fontes utilizadas para pesquisa
-Banco Original - https://www.original.com.br;
+Banco Original - https://www.original.com.br/;
 Flora - https://flora.com.br/; 
-PicPay - https://picpay.com/pt-br/pf
-Submaracas da Friboi - https://www.friboi.com.br/marcas
+PicPay - https://picpay.com/pt-br/pf/
+Submaracas da Friboi - https://www.friboi.com.br/marcas/
 JBS - https://www.jbs.com.br/ 
 Seara - https://www.seara.com.br/ 
 Swift - https://www.swift.com.br/
