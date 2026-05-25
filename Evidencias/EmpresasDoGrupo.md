@@ -93,11 +93,11 @@ As marcas apresentadas na pesquisa são as que apresentam algum tipo de acessibi
 A acessibilidade digital completa é indispensável para garantir inclusão, igualdade e facilidade de acesso às informações. Empresas de grande porte, como a JBS, possuem papel importante na adoção dessas práticas, já que seus sistemas e páginas atendem milhares de pessoas diariamente.
 Portanto, investir em acessibilidade significa promover inclusão, melhorar a qualidade dos serviços digitais e permitir que todos os usuários possam navegar com autonomia, segurança e eficiência.
 
-## Fontes utilizadas para pesquisa
+# Fontes utilizadas para pesquisa
 Banco Original - https://www.original.com.br/;
 Flora - https://flora.com.br/; 
 PicPay - https://picpay.com/pt-br/pf/
-Submaracas da Friboi - https://www.friboi.com.br/marcas/
+Submarcas da Friboi - https://www.friboi.com.br/marcas/
 JBS - https://www.jbs.com.br/ 
 Seara - https://www.seara.com.br/ 
 Swift - https://www.swift.com.br/
