@@ -1,0 +1,106 @@
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+:root{
+    --azul-escuro: #102030;
+    --azul-medio: #0245A8;
+    --azul-claro: #1E88EE;
+    --branco-azulado: #F6F7FF; 
+    --branco: #FFFFFF;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--azul-escuro);
+    min-height: 100vh;
+
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/FundoPadrão.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: var(--branco-azulado);
+    border-radius: 15px;
+    width: 60rem;
+}
+.card{
+    padding:1.5rem;
+
+}
+.form-title{
+    color: var(--azul-medio);
+}
+.form-desc{
+    color: var(--azul-medio);
+}
+aside{
+    background: linear-gradient(300deg, var(--azul-medio), var(--azul-claro));
+    padding:1.5rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;    
+    border-radius: 0px 13px 13px 0px;
+}
+
+#bluePanelDesc{
+    color: var(--branco);
+    font-size: 1rem;
+}
+#bluePanelLogo{
+    width: 9rem;
+    height: auto;
+}
+.btn{
+    background:linear-gradient(300deg, var(--azul-claro), var(--azul-medio));
+    color: var(--branco);
+    border: none;
+    padding: 0.9rem 1.5rem;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+
